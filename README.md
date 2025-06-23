@@ -25,3 +25,4 @@ A responsive single-page website built using HTML, CSS, and Bootstrap, featuring
 1. Clone the repository:
    ```bash
    git clone https://github.com/shaasshh14/MyApp---Bootstrap.git
+2. Open index.html in your browser.
