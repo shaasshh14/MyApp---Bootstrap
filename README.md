@@ -18,7 +18,7 @@ A responsive single-page website built using HTML, CSS, and Bootstrap, featuring
 
 - HTML5  
 - CSS3  
-- Bootstrap 4/5
+- Bootstrap 
 
 ## 🚀 Getting Started
 
